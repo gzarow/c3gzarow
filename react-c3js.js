@@ -1,5 +1,5 @@
 "use strict";
-//próba czy zaktualizuje
+//próba czy zaktualizuje teraz Karol
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
