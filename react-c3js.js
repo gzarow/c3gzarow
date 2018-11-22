@@ -1,5 +1,5 @@
 "use strict";
-
+//próba czy zaktualizuje
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
