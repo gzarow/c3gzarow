@@ -1,5 +1,5 @@
 "use strict";
-//test kolejny
+//test kolejny grzegorza
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
